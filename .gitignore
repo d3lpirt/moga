@@ -1,6 +1,6 @@
 *.class
-target\
-out\
+target/
+out/
 
 # Result files
 *.txt
